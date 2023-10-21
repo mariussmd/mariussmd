@@ -5,13 +5,17 @@ Hi, i'm Marius Schmid, a passionate developer who loves finding innovative solut
 
 **languages and tools:**
 
-<code><img height="20" src="assets/java-icon.svg"></code>
-<code><img height="20" src="assets/python-icon.svg"></code>
-<code><img height="20" src="assets/typescriptlang-icon.svg"></code>
-<code><img height="20" src="assets/springio-icon.svg"></code>
-<code><img height="20" src="assets/reactjs-icon.svg"></code>
-<code><img height="20" src="assets/angular-icon.svg"></code>
-<code><img height="20" src="assets/docker-icon.svg"></code>
-<code><img height="20" src="assets/kubernetes-icon.svg"></code>
-<code><img height="20" src="assets/jenkins-icon.svg"></code>
-<code><img height="20" src="assets/firebase-icon.svg"></code>
+<a href="https://www.java.com"><img height="20" src="assets/java-icon.svg"></a>
+<a href="https://www.python.org"><img height="20" src="assets/python-icon.svg"></a>
+<a href="https://www.typescriptlang.org"><img height="20" src="assets/typescriptlang-icon.svg"></a>
+<a href="https://spring.io"><img height="20" src="assets/springio-icon.svg"></a>
+<a href="https://reactjs.org"><img height="20" src="assets/reactjs-icon.svg"></a>
+<a href="https://angular.io"><img height="20" src="assets/angular-icon.svg"></a>
+<a href="https://www.docker.com"><img height="20" src="assets/docker-icon.svg"></a>
+<a href="https://kubernetes.io"><img height="20" src="assets/kubernetes-icon.svg"></a>
+<a href="https://www.jenkins.io"><img height="20" src="assets/jenkins-icon.svg"></a>
+<a href="https://firebase.google.com"><img height="20" src="assets/firebase-icon.svg"></a>
+
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉
+<a href="https://www.buymeacoffee.com/mariusschmid" target="_blank"><img height="20" src="assets/buymeacoffee-icon.svg" alt="Buy Me A Coffee" ></a>
+👈
