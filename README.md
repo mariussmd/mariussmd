@@ -2,6 +2,7 @@ Hi, i'm Marius Schmid, a passionate developer who loves finding innovative solut
 
 - 💼 any freelance work? do reach, [email](mailto:marius.schmid8@icloud.com) :)
 - 💬 ask me about anything, i am happy to help;
+- 🌐 check out my website [darkalpaca.com](https://www.darkalpaca.com)
 
 **languages and tools:**
 
@@ -19,3 +20,7 @@ Hi, i'm Marius Schmid, a passionate developer who loves finding innovative solut
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉
 <a href="https://www.buymeacoffee.com/mariusschmid" target="_blank"><img height="20" src="assets/buymeacoffee-icon.svg" alt="Buy Me A Coffee" ></a>
 👈
+
+**Current Project:**
+
+🌐 [darkalpaca.com](https://www.darkalpaca.com) - I am currently working on my website where I offer services in UI/UX design and web development. Feel free to visit and reach out for any collaboration or project inquiries!
