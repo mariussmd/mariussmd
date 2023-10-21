@@ -1,4 +1,4 @@
-Hi, i'm Marius Schmid, a passionate developer who loves finding innovative solutions for complex problems. With a strong background in various programming languages and frameworks, I strive to continuously expand my knowledge and explore the latest technologies.
+Hi, i'm <u>Marius Schmid</u>, a passionate developer who loves finding innovative solutions for complex problems. With a strong background in various programming languages and frameworks, I strive to continuously expand my knowledge and explore the latest technologies.
 
 - 💼 any freelance work? do reach, [email](mailto:marius.schmid8@icloud.com) :)
 - 💬 ask me about anything, i am happy to help;
