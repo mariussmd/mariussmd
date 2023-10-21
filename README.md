@@ -24,3 +24,5 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉
 **Current Project:**
 
 🌐 [darkalpaca.com](https://www.darkalpaca.com) - I am currently working on my website where I offer services in UI/UX design and web development. Feel free to visit and reach out for any collaboration or project inquiries!
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=mariussmd.mariussmd)
